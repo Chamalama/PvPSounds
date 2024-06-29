@@ -1,0 +1,4 @@
+name: PvPSounds
+version: '${version}'
+main: com.cham.pvpsounds.PvPSounds
+api-version: '1.20'
